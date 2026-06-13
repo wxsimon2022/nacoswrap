@@ -1,4 +1,4 @@
-module github.com/wxsimon8888/nacoswrap
+module github.com/wxsimon2022/nacoswrap
 
 go 1.23.0
 

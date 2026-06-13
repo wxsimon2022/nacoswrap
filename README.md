@@ -2,8 +2,8 @@
 
 > A clean, reusable Go wrapper around the `nacos-sdk-go/v2`, simplifying service discovery and configuration management into a single `Client`.
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/wxsimon8888/nacoswrap.svg)](https://pkg.go.dev/github.com/wxsimon8888/nacoswrap)
-[![Go Report Card](https://goreportcard.com/badge/github.com/wxsimon8888/nacoswrap)](https://goreportcard.com/report/github.com/wxsimon8888/nacoswrap)
+[![Go Reference](https://pkg.go.dev/badge/github.com/wxsimon2022/nacoswrap.svg)](https://pkg.go.dev/github.com/wxsimon2022/nacoswrap)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wxsimon2022/nacoswrap)](https://goreportcard.com/report/github.com/wxsimon2022/nacoswrap)
 
 ## Features
 
@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-go get github.com/wxsimon8888/nacoswrap
+go get github.com/wxsimon2022/nacoswrap
 ```
 
 ## Quick Start
@@ -30,7 +30,7 @@ package main
 import (
 	"log"
 
-	"github.com/wxsimon8888/nacoswrap"
+	"github.com/wxsimon2022/nacoswrap"
 )
 
 func main() {
